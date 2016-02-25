@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://ambitionally.com'
   name: AmbitionAlly
-  favicon: 'http://ambitionally.s3.amazonaws.com/aa-icon.ico'
   domain: ambitionally.com
+  url: 'http://ambitionally.com'
+  favicon: 'http://ambitionally.s3.amazonaws.com/aa-icon.ico'
 keywords:
   - webinar
   - wordpress
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://ambitionally.com/webinarally/'
 title: 'WebinarAlly: The Easy WordPress Webinar Plugin'
-datePublished: '2016-02-25T19:22:22.451Z'
-dateModified: '2016-02-25T17:28:06.927Z'
+datePublished: '2016-02-25T19:33:47.899Z'
+dateModified: '2016-02-25T19:27:39.026Z'
 sourcePath: _posts/2016-02-25-webinarally-the-easy-wordpress-webinar-plugin.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
