@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: HumanTalents Main Page
+    url: 'http://humantalents.ca/'
+    type: external
 favicon: null
 title: HumanTalents CANADA
 description: 'Helping you Attract, Train And Retain the best Talent'
