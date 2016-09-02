@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Amr
+  email: amorselim@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3872a65a-dae1-4f3b-800a-ca9e0410cc11.jpg
 name: HumanTalents CA
 cta:
   domain: null
@@ -28,7 +33,8 @@ navigation:
   - name: HumanTalents Main Page
     url: 'http://humantalents.ca/'
     type: external
-favicon: null
-title: HumanTalents CANADA
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb65dcbd-ebde-4b80-abb2-155add264b24.ico
+title: Your Partners in Customer Success
 description: 'Helping you Attract, Train And Retain the best Talent'
 purpose: []
