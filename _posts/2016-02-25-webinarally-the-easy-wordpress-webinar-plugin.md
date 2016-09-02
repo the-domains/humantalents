@@ -16,15 +16,18 @@ keywords:
   - businesses
   - uses
   - tutorials
-description: "Have a Live Webinar Running On Any WordPress Site In Just Minutes... Plus get instant access to a replay, without messing with any code or uploading large files. When it comes to webinars, it feels like you've only got two options: The enterprise-level webinar platforms that start at $99/month and up..."
-datePublished: '2016-02-25T20:06:40.809Z'
-dateModified: '2016-02-25T20:06:39.710Z'
+description: >-
+  Have a Live Webinar Running On Any WordPress Site In Just Minutes... Plus get
+  instant access to a replay, without messing with any code or uploading large
+  files. When it comes to webinars, it feels like you've only got two options:
+  The enterprise-level webinar platforms that start at $99/month and up...
+datePublished: '2016-08-31T04:06:14.659Z'
+dateModified: '2016-02-25T20:14:38.997Z'
 author: []
 related: []
 app_links: []
 title: 'WebinarAlly: The Easy WordPress Webinar Plugin'
 sourcePath: _posts/2016-02-25-webinarally-the-easy-wordpress-webinar-plugin.md
-published: true
 authors: []
 publisher:
   name: AmbitionAlly
